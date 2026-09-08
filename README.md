@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ayush Singh
+<h1 align="center">👋 Hi, I'm Ayush 
 </h1>
 
 <h3 align="center">Always Learning, Always Growing 🚀</h3>
